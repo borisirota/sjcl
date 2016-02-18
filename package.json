@@ -1,5 +1,5 @@
 {
-    "name": "sjcl",
+    "name": "@cryptolize/sjcl",
     "version": "1.0.4",
     "description": "Stanford Javascript Crypto Library",
     "main": "sjcl.js",
@@ -12,5 +12,8 @@
     "scripts": {
       "test": "make test"
     },
-    "engines": { "node": "*" }
+    "engines": { "node": "*" },
+    "files": [
+        "sjcl.js"
+    ]
 }
