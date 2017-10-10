@@ -1,6 +1,6 @@
 {
     "name": "@cryptolize/sjcl",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "Stanford Javascript Crypto Library",
     "main": "sjcl.js",
     "author": "bitwiseshiftleft",
